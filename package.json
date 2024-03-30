@@ -1,5 +1,5 @@
 {
-  "name": "void-uptime",
+  "name": "KnightLegendUptime",
   "version": "1.0.0",
   "description": "Void sunucusuna özel yapılmış uptime botu.",
   "main": "index.js",
